@@ -1,4 +1,4 @@
-package com.github.gregor499.neuefischeaufgabenwoche3springresttemplate;
+package com.github.gregor499.neuefischeaufgabenwoche3springresttemplate.RestTemplate;
 
 public class Repository {
     private String name;

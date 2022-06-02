@@ -1,4 +1,4 @@
-package com.github.gregor499.neuefischeaufgabenwoche3springresttemplate;
+package com.github.gregor499.neuefischeaufgabenwoche3springresttemplate.IntegrationsTests;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;

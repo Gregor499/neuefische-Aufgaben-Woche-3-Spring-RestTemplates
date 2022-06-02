@@ -1,4 +1,4 @@
-package com.github.gregor499.neuefischeaufgabenwoche3springresttemplate;
+package com.github.gregor499.neuefischeaufgabenwoche3springresttemplate.RestTemplate;
 
 import org.springframework.web.bind.annotation.GetMapping;
 import org.springframework.web.bind.annotation.PathVariable;
